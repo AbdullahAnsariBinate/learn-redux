@@ -19,7 +19,7 @@
 //Step 4
 //Now you can use your redux.
 
-
+//Example of code
 const { createStore } = Redux;
 
 const initState = {
