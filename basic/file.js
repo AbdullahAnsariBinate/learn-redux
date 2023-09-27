@@ -2,7 +2,7 @@
 //Create a store
 //Import redux and destructure a createStore function
 //Then create a var called store and in this store u can called a function createStore and pass your reducer.
-//nice
+//niceddd
 
 
 //Step 2
